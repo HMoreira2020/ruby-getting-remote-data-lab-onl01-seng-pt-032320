@@ -1,1 +1,4 @@
-# Write your code here
+class GetRequester 
+  def initialize(string_url) 
+    
+  end 
